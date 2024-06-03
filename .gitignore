@@ -9,4 +9,6 @@ cython_modules/build/
 __pycache__
 people_segmentation/
 checkpoints/
-*.png
+trainedUNet_resNet_0/
+trainedUNet_resNet_1/
+
